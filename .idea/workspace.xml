@@ -5,29 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e426ec8c-ce6f-4193-aecd-476588da5871" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dj_homework_smart_home.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/measurement/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/measurement/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/measurement/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/measurement/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/measurement/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/measurement/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/measurement/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/measurement/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/measurement/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requests.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smart_home/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smart_home/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smart_home/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smart_home/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smart_home/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/measurement/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/measurement/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/measurement/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/measurement/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/measurement/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/measurement/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/measurement/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/measurement/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests.http" beforeDir="false" afterPath="$PROJECT_DIR$/requests.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart_home/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/smart_home/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart_home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/smart_home/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +24,68 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="file://$PROJECT_DIR$/requests.http" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000000247818" />
+      <entry key="MS500" value="1.0119902038750068" />
+      <entry key="S2" value="1.3309075239147499" />
+      <entry key="S5" value="1.6425140911942884" />
+      <entry key="S10" value="1.8015697668917006" />
+      <entry key="S30" value="1.9290810002063328" />
+      <entry key="S60" value="1.99175115813089" />
+      <entry key="M2" value="2.4008945918732056" />
+      <entry key="M5" value="4.356109963492184" />
+      <entry key="M10" value="8.610874025039472" />
+      <entry key="M15" value="14.410691072961828" />
+      <entry key="M30" value="30.654113210220288" />
+      <entry key="H1" value="50.30144214375668" />
+      <entry key="H2" value="67.5499461301265" />
+      <entry key="H4" value="79.57792666743036" />
+      <entry key="D1" value="92.14415912258067" />
+      <entry key="W1" value="94.58425580978862" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9201876508466784" />
+      <entry key="MS500" value="0.9952292544755794" />
+      <entry key="S2" value="1.3249274142171952" />
+      <entry key="S5" value="1.639428358405122" />
+      <entry key="S10" value="1.799849859554078" />
+      <entry key="S30" value="1.928460423068496" />
+      <entry key="S60" value="1.9914329339563028" />
+      <entry key="M2" value="2.400723663107563" />
+      <entry key="M5" value="4.356020406795054" />
+      <entry key="M10" value="8.610796490243983" />
+      <entry key="M15" value="14.410603505807778" />
+      <entry key="M30" value="30.65401266597879" />
+      <entry key="H1" value="50.30135167018659" />
+      <entry key="H2" value="67.5498808134189" />
+      <entry key="H4" value="79.57788646333559" />
+      <entry key="D1" value="92.14415104400702" />
+      <entry key="W1" value="94.58425461654656" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4,
@@ -48,11 +98,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "HTTP Request.All in requests.executor": "Run",
+    "HTTP Request.requests | #1.executor": "Run",
+    "HTTP Request.requests | #2.executor": "Run",
+    "HTTP Request.requests | #3.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -67,7 +122,35 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="HttpClient.HttpRequestRunConfigurationType">
+          <value>
+            <map>
+              <entry key="All in requests" value="STOPPED" />
+              <entry key="requests | #1" value="STOPPED" />
+              <entry key="requests | #2" value="STOPPED" />
+              <entry key="requests | #3" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django Server.dj_homework_smart_home">
+    <configuration name="All in requests" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/requests.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/requests.http" executionIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/requests.http" executionIdentifier="#2" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="requests | #3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/requests.http" executionIdentifier="#3" index="3" runType="Run single request">
+      <method v="2" />
+    </configuration>
     <configuration name="dj_homework_smart_home" type="Python.DjangoServer" factoryName="Django server">
       <module name="dj_homework_smart_home" />
       <option name="ENV_FILES" value="" />
@@ -94,6 +177,14 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.All in requests" />
+        <item itemvalue="HTTP Request.requests | #3" />
+        <item itemvalue="HTTP Request.requests | #2" />
+        <item itemvalue="HTTP Request.requests | #1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -110,7 +201,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1783546225902</updated>
-      <workItem from="1783546226974" duration="643000" />
+      <workItem from="1783546226974" duration="6155000" />
     </task>
     <servers />
   </component>
